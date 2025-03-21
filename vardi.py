@@ -1,2 +1,2 @@
-print("Nikols")
-print("Dastins")
+
+print(1)
